@@ -20,7 +20,7 @@ const config = {
     ytChannel: process.env.YT_CHANNEL || 'GlobalTechInfo',
     // Session
     sessionId: process.env.SESSION_ID || '',
-    pairingNumber: process.env.PAIRING_NUMBER || '9647832053208',
+    pairingNumber: process.env.PAIRING_NUMBER || '201155998349',
     // Performance
     port: Number(process.env.PORT) || 5000,
     maxStoreMessages: Number(process.env.MAX_STORE_MESSAGES) || 20,
